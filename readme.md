@@ -3,6 +3,12 @@
 
 https://city.shaform.com/blog/2016/03/19/gspread.html
 
+> 我們需要自己設定的有
+
+1. google sheet 文件位置
+2. auth.json
+3. 就這樣而已！！！！
+
 > zsh
 
 https://github.com/robbyrussell/oh-my-zsh
